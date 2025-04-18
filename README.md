@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EdilvanIsaias&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 <img 
       align="left" 
       alt="Tecnologias" 
-      height="190" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilvanIsaias&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
