@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="Tecnologias" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilvanIsaias&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
